@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Awakening-02-Draft"
+                ]
+            },
+            "height": 22442,
+            "width": 9449,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 296,
+                                                "height": 702
+                                            },
+                                            {
+                                                "width": 591,
+                                                "height": 1403
+                                            },
+                                            {
+                                                "width": 1182,
+                                                "height": 2806
+                                            },
+                                            {
+                                                "width": 2363,
+                                                "height": 5611
+                                            },
+                                            {
+                                                "width": 4725,
+                                                "height": 11221
+                                            },
+                                            {
+                                                "width": 9449,
+                                                "height": 22442
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 9449,
+                                        "@id": "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 22442,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
