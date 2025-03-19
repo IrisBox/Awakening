@@ -1,0 +1,129 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://IrisBox.github.io/Awakening/manifests/Regenesis-Triptych.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Regenesis Triptych" ]
+  },
+  "summary" : {
+    "en" : [ "The Regenesis Triptych is part of Awakening." ]
+  },
+  "rights" : "http://creativecommons.org/licenses/by-nc/4.0/",
+  "items" : [ {
+    "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/9y20mkvlfwp-m8gchquo",
+    "type" : "Canvas",
+    "height" : 22441,
+    "width" : 9449,
+    "label" : {
+      "en" : [ "Regenesis Triptych 01" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/9y20mkvlfwp-m8gchquo/annotation-page/b6g33bsxv36-m8gchquo",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/gwml4xi79on-m8gcgw3r/annotation/dnvgzty7kc-m8gchqun",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/9y20mkvlfwp-m8gchquo",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 22441,
+          "width" : 9449,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 296,
+              "height" : 702
+            }, {
+              "width" : 591,
+              "height" : 1403
+            }, {
+              "width" : 1182,
+              "height" : 2806
+            }, {
+              "width" : 2363,
+              "height" : 5611
+            }, {
+              "width" : 4725,
+              "height" : 11221
+            }, {
+              "width" : 9449,
+              "height" : 22441
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 9449,
+            "@id" : "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 22441,
+            "id" : "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft"
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/jrte8gknz3j-m8gcias2",
+    "type" : "Canvas",
+    "height" : 22442,
+    "width" : 9449,
+    "label" : {
+      "en" : [ "Regenesis Triptych 02" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/jrte8gknz3j-m8gcias2/annotation-page/kw27546v8p-m8gcias2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/gwml4xi79on-m8gcgw3r/annotation/z199m5lijjb-m8gcias2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/jrte8gknz3j-m8gcias2",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 22442,
+          "width" : 9449,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 296,
+              "height" : 702
+            }, {
+              "width" : 591,
+              "height" : 1403
+            }, {
+              "width" : 1182,
+              "height" : 2806
+            }, {
+              "width" : 2363,
+              "height" : 5611
+            }, {
+              "width" : 4725,
+              "height" : 11221
+            }, {
+              "width" : 9449,
+              "height" : 22442
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 9449,
+            "@id" : "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 22442,
+            "id" : "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
