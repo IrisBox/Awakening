@@ -11,5 +11,11 @@
       "en" : [ "Regenesis Triptych" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://IrisBox.github.io/Awakening/manifests/Regenesis-Triptych-1.json",
+    "label" : {
+      "en" : [ "Regenesis Triptych" ]
+    },
+    "type" : "Manifest"
   } ]
 }
