@@ -6,30 +6,71 @@
     "en" : [ "Regenesis Triptych" ]
   },
   "summary" : {
-    "en" : [ "The Regenesis Triptych is part of Awakening." ]
+    "en" : [ "The Regenesis Triptych is part of TDC's Awakening (https://www.tdctunes.com/awakening)" ]
   },
   "rights" : "http://creativecommons.org/licenses/by-nc/4.0/",
+  "navDate" : "2025-03-20T00:00:00.000Z",
   "items" : [ {
-    "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/9y20mkvlfwp-m8gchquo",
+    "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/qgw5h9jlhj-m8httsr2",
     "type" : "Canvas",
-    "height" : 22441,
+    "height" : 23623,
     "width" : 9449,
     "label" : {
-      "en" : [ "Regenesis Triptych 01" ]
+      "en" : [ "01: Emergence" ]
     },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-01/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 23623,
+      "width" : 9449,
+      "service" : [ {
+        "tiles" : [ {
+          "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+          "width" : 1024,
+          "height" : 1024
+        } ],
+        "protocol" : "http://iiif.io/api/image",
+        "sizes" : [ {
+          "width" : 296,
+          "height" : 739
+        }, {
+          "width" : 591,
+          "height" : 1477
+        }, {
+          "width" : 1182,
+          "height" : 2953
+        }, {
+          "width" : 2363,
+          "height" : 5906
+        }, {
+          "width" : 4725,
+          "height" : 11812
+        }, {
+          "width" : 9449,
+          "height" : 23623
+        } ],
+        "profile" : "level0",
+        "width" : 9449,
+        "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-01",
+        "type" : "ImageService3",
+        "@context" : "http://iiif.io/api/image/3/context.json",
+        "height" : 23623
+      } ]
+    } ],
     "items" : [ {
-      "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/9y20mkvlfwp-m8gchquo/annotation-page/b6g33bsxv36-m8gchquo",
+      "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/qgw5h9jlhj-m8httsr2/annotation-page/fdqm7z17djp-m8httsr2",
       "type" : "AnnotationPage",
       "items" : [ {
-        "id" : "https://example.org/gwml4xi79on-m8gcgw3r/annotation/dnvgzty7kc-m8gchqun",
+        "id" : "https://example.org/51ykrx6taej-m8htruv0/annotation/gxxt0uyvm9-m8httsr2",
         "type" : "Annotation",
         "motivation" : "painting",
-        "target" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/9y20mkvlfwp-m8gchquo",
+        "target" : "https://example.org/51ykrx6taej-m8htruv0/canvas/qgw5h9jlhj-m8httsr2",
         "body" : {
-          "id" : "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft/full/max/0/default.jpg",
+          "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-01/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
-          "height" : 22441,
+          "height" : 23623,
           "width" : 9449,
           "service" : [ {
             "tiles" : [ {
@@ -40,54 +81,94 @@
             "protocol" : "http://iiif.io/api/image",
             "sizes" : [ {
               "width" : 296,
-              "height" : 702
+              "height" : 739
             }, {
               "width" : 591,
-              "height" : 1403
+              "height" : 1477
             }, {
               "width" : 1182,
-              "height" : 2806
+              "height" : 2953
             }, {
               "width" : 2363,
-              "height" : 5611
+              "height" : 5906
             }, {
               "width" : 4725,
-              "height" : 11221
+              "height" : 11812
             }, {
               "width" : 9449,
-              "height" : 22441
+              "height" : 23623
             } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "profile" : "level0",
             "width" : 9449,
-            "@id" : "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 22441,
-            "id" : "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft"
+            "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-01",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 23623
           } ]
         }
       } ]
     } ]
   }, {
-    "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/jrte8gknz3j-m8gcias2",
+    "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/mu5xihdtz9-m8htusjz",
     "type" : "Canvas",
-    "height" : 22442,
+    "height" : 23623,
     "width" : 9449,
     "label" : {
-      "en" : [ "Regenesis Triptych 02" ]
+      "en" : [ "02: Understanding" ]
     },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-02/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 23623,
+      "width" : 9449,
+      "service" : [ {
+        "tiles" : [ {
+          "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+          "width" : 1024,
+          "height" : 1024
+        } ],
+        "protocol" : "http://iiif.io/api/image",
+        "sizes" : [ {
+          "width" : 296,
+          "height" : 739
+        }, {
+          "width" : 591,
+          "height" : 1477
+        }, {
+          "width" : 1182,
+          "height" : 2953
+        }, {
+          "width" : 2363,
+          "height" : 5906
+        }, {
+          "width" : 4725,
+          "height" : 11812
+        }, {
+          "width" : 9449,
+          "height" : 23623
+        } ],
+        "profile" : "level0",
+        "width" : 9449,
+        "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-02",
+        "type" : "ImageService3",
+        "@context" : "http://iiif.io/api/image/3/context.json",
+        "height" : 23623
+      } ]
+    } ],
     "items" : [ {
-      "id" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/jrte8gknz3j-m8gcias2/annotation-page/kw27546v8p-m8gcias2",
+      "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/mu5xihdtz9-m8htusjz/annotation-page/nu379tcvc3-m8htusjz",
       "type" : "AnnotationPage",
       "items" : [ {
-        "id" : "https://example.org/gwml4xi79on-m8gcgw3r/annotation/z199m5lijjb-m8gcias2",
+        "id" : "https://example.org/51ykrx6taej-m8htruv0/annotation/fnn107sywkn-m8htusjy",
         "type" : "Annotation",
         "motivation" : "painting",
-        "target" : "https://example.org/gwml4xi79on-m8gcgw3r/canvas/jrte8gknz3j-m8gcias2",
+        "target" : "https://example.org/51ykrx6taej-m8htruv0/canvas/mu5xihdtz9-m8htusjz",
         "body" : {
-          "id" : "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft/full/max/0/default.jpg",
+          "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-02/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
-          "height" : 22442,
+          "height" : 23623,
           "width" : 9449,
           "service" : [ {
             "tiles" : [ {
@@ -98,29 +179,127 @@
             "protocol" : "http://iiif.io/api/image",
             "sizes" : [ {
               "width" : 296,
-              "height" : 702
+              "height" : 739
             }, {
               "width" : 591,
-              "height" : 1403
+              "height" : 1477
             }, {
               "width" : 1182,
-              "height" : 2806
+              "height" : 2953
             }, {
               "width" : 2363,
-              "height" : 5611
+              "height" : 5906
             }, {
               "width" : 4725,
-              "height" : 11221
+              "height" : 11812
             }, {
               "width" : 9449,
-              "height" : 22442
+              "height" : 23623
             } ],
-            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "profile" : "level0",
             "width" : 9449,
-            "@id" : "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft",
-            "@context" : "http://iiif.io/api/image/2/context.json",
-            "height" : 22442,
-            "id" : "https://IrisBox.github.io/Awakening/images/Awakening-02-Draft"
+            "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-02",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 23623
+          } ]
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/xme1b7saeg-m8htvhc5",
+    "type" : "Canvas",
+    "height" : 23623,
+    "width" : 9449,
+    "label" : {
+      "en" : [ "03: Onwards" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-03/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 23623,
+      "width" : 9449,
+      "service" : [ {
+        "tiles" : [ {
+          "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+          "width" : 1024,
+          "height" : 1024
+        } ],
+        "protocol" : "http://iiif.io/api/image",
+        "sizes" : [ {
+          "width" : 296,
+          "height" : 739
+        }, {
+          "width" : 591,
+          "height" : 1477
+        }, {
+          "width" : 1182,
+          "height" : 2953
+        }, {
+          "width" : 2363,
+          "height" : 5906
+        }, {
+          "width" : 4725,
+          "height" : 11812
+        }, {
+          "width" : 9449,
+          "height" : 23623
+        } ],
+        "profile" : "level0",
+        "width" : 9449,
+        "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-03",
+        "type" : "ImageService3",
+        "@context" : "http://iiif.io/api/image/3/context.json",
+        "height" : 23623
+      } ]
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/xme1b7saeg-m8htvhc5/annotation-page/kmhzs60ekk-m8htvhc5",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/51ykrx6taej-m8htruv0/annotation/ox9hpqq26gi-m8htvhc5",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/51ykrx6taej-m8htruv0/canvas/xme1b7saeg-m8htvhc5",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-03/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 23623,
+          "width" : 9449,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 296,
+              "height" : 739
+            }, {
+              "width" : 591,
+              "height" : 1477
+            }, {
+              "width" : 1182,
+              "height" : 2953
+            }, {
+              "width" : 2363,
+              "height" : 5906
+            }, {
+              "width" : 4725,
+              "height" : 11812
+            }, {
+              "width" : 9449,
+              "height" : 23623
+            } ],
+            "profile" : "level0",
+            "width" : 9449,
+            "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-03",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 23623
           } ]
         }
       } ]
