@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 296,
+    "height" : 739
+  }, {
+    "width" : 591,
+    "height" : 1477
+  }, {
+    "width" : 1182,
+    "height" : 2953
+  }, {
+    "width" : 2363,
+    "height" : 5906
+  }, {
+    "width" : 4725,
+    "height" : 11812
+  }, {
+    "width" : 9449,
+    "height" : 23623
+  } ],
+  "profile" : "level0",
+  "width" : 9449,
+  "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-01",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 23623
+}
