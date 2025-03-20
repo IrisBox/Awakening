@@ -10,6 +10,13 @@
   },
   "rights" : "http://creativecommons.org/licenses/by-nc/4.0/",
   "navDate" : "2025-03-20T00:00:00.000Z",
+  "thumbnail" : [ {
+    "id" : "https://irisbox.github.io/Awakening/images/RegenesisTriptych-LR/full/full/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 11812,
+    "width" : 14175
+  } ],
   "items" : [ {
     "id" : "https://example.org/51ykrx6taej-m8htruv0/canvas/qgw5h9jlhj-m8httsr2",
     "type" : "Canvas",
