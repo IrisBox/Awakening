@@ -1,0 +1,86 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://IrisBox.github.io/Awakening/manifests/Regenesis-Triptych-LR.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Regenesis Triptych (LR)" ]
+  },
+  "summary" : {
+    "en" : [ "The Regenesis Triptych is part of TDC's Awakening (https://www.tdctunes.com/awakening)" ]
+  },
+  "rights" : "http://creativecommons.org/licenses/by-nc/4.0/",
+  "navDate" : "2025-03-20T00:00:00.000Z",
+  "thumbnail" : [ {
+    "id" : "https://irisbox.github.io/Awakening/images/RegenesisTriptych-LR/full/full/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 11812,
+    "width" : 14175
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/qfbow24qmri-m8hv0x5w/canvas/0h85bp33bjzb-m8hv5g5e",
+    "type" : "Canvas",
+    "height" : 11812,
+    "width" : 14175,
+    "label" : {
+      "en" : [ "3 Stages" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://irisbox.github.io/Awakening/images/RegenesisTriptych-LR/full/full/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 11812,
+      "width" : 14175
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/qfbow24qmri-m8hv0x5w/canvas/0h85bp33bjzb-m8hv5g5e/annotation-page/4s9z1nl85jb-m8hv5g5e",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/qfbow24qmri-m8hv0x5w/annotation/yu44ywtcp2-m8hv5g5d",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/qfbow24qmri-m8hv0x5w/canvas/0h85bp33bjzb-m8hv5g5e",
+        "body" : {
+          "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-LR/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 11812,
+          "width" : 14175,
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 443,
+              "height" : 370
+            }, {
+              "width" : 886,
+              "height" : 739
+            }, {
+              "width" : 1772,
+              "height" : 1477
+            }, {
+              "width" : 3544,
+              "height" : 2953
+            }, {
+              "width" : 7088,
+              "height" : 5906
+            }, {
+              "width" : 14175,
+              "height" : 11812
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 14175,
+            "@id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-LR",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 11812,
+            "id" : "https://IrisBox.github.io/Awakening/images/RegenesisTriptych-LR"
+          } ]
+        }
+      } ]
+    } ]
+  } ]
+}
