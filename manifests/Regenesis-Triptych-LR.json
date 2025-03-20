@@ -25,6 +25,11 @@
     "label" : {
       "en" : [ "3 Stages" ]
     },
+    "summary": {
+        "en": [
+          "The transportability of the triptych form lends itself to digital media. Presented here are three panels in one image, which should be “read” starting with the left-hand panel, followed by the right, and the story ends in the central section. \n\nIn stage one of the story, the android emerges confused and disorientated. Piecing together various components, it not only finds the physical parts it needs, but amongst them is a hard drive containing what looks like an archive of historic manuscripts. The images presented in this section are derived from physical objects using different photographic processes – digital photography and cyanotype prints. The archival manuscript images are sourced from Cambridge Digital Library (https://cudl.lib.cam.ac.uk/), and here have been corrupted using a jpg glitching tool. \n\nAs the components begin to coalesce around a physical form in the second stage, the android begins to make sense of this ocean of information, giving form to knowledge as well.  As physical objects begin to take form, both human and machine develop understanding through a series of processes – construction and sense making. This section incorporates imagery generated using AI computer-vision methods to sort this corpus of images by similarity and to detect anthropomorphic forms.\n\nHarmony is achieved in the final stage as the android reaches a pinnacle. Components have become functional objects, concepts of “power” and “order” have developed, and disorientation is replaced by understanding. But thoughts also turn to the future and the prospect of decay, flaking and cracking. As this project evolves, links back to the archival manuscripts will be incorporated and you too can develop an understanding of how these glimpses into the past relate to visions of the future."
+        ]
+      },
     "thumbnail" : [ {
       "id" : "https://irisbox.github.io/Awakening/images/RegenesisTriptych-LR/full/full/0/default.jpg",
       "type" : "Image",
