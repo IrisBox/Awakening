@@ -19,8 +19,12 @@
              "value": {"en": ["20/03/2025"]}
              },
              { 
-             "label": {"en": ["Archive image credits"]},
-             "value": {"en": ["Images of archive material are form the collections of: Cambridge University Library, the Pepys Library, Magdalene College, Cambridge, National Maritime Museum, Greenwich, Cavendish Laboratory, University of Cambridge, Needham Research Institute, Cambridge , and St John's College, Cambridge. I will shortly be adding links to all of the digitised objects here as well."]}
+             "label": {"en": ["Rights"]},
+             "value": {"en": ["<a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a>"]}
+             },
+             { 
+             "label": {"en": ["Archive image attribution"]},
+             "value": {"en": ["Images of archive material are from the collections of: Cambridge University Library, the Pepys Library, Magdalene College, Cambridge, National Maritime Museum, Greenwich, Cavendish Laboratory, University of Cambridge, Needham Research Institute, Cambridge , and St John's College, Cambridge, and are licenced under <a href="http://creativecommons.org/licenses/by-nc/4.0/">CC-BY-NC-4.0</a>. I will shortly be adding links to all of the digitised objects here as well."]}
              }    
                 ],
   "summary" : {
