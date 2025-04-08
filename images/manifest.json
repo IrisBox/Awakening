@@ -171,6 +171,87 @@
             ]
         },
         {
+            "id": "https://IrisBox.github.io/Awakening/images/RegenesisTriptych/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "RegenesisTriptych"
+                ]
+            },
+            "height": 11812,
+            "width": 14175,
+            "items": [
+                {
+                    "id": "https://IrisBox.github.io/Awakening/images/RegenesisTriptych/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://IrisBox.github.io/Awakening/images/RegenesisTriptych/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://IrisBox.github.io/Awakening/images/RegenesisTriptych/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 443,
+                                                "height": 370
+                                            },
+                                            {
+                                                "width": 886,
+                                                "height": 739
+                                            },
+                                            {
+                                                "width": 1772,
+                                                "height": 1477
+                                            },
+                                            {
+                                                "width": 3544,
+                                                "height": 2953
+                                            },
+                                            {
+                                                "width": 7088,
+                                                "height": 5906
+                                            },
+                                            {
+                                                "width": 14175,
+                                                "height": 11812
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 14175,
+                                        "@id": "https://IrisBox.github.io/Awakening/images/RegenesisTriptych",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 11812,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://IrisBox.github.io/Awakening/images/RegenesisTriptych/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://IrisBox.github.io/Awakening/images/Awakening-01-Draft/canvas/",
             "type": "Canvas",
             "label": {
